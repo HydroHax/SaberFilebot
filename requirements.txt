@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+motor
+cachetools
+python-dotenv
+pyromod
